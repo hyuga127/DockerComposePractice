@@ -14,7 +14,12 @@
 ![image](https://github.com/user-attachments/assets/a4f46274-5080-4c70-8692-2f27d31bd066)
 ![image](https://github.com/user-attachments/assets/f17832cb-e144-4faf-a827-858c793929e7)
 # Bài 4: Chạy ứng dụng Node.js với Docker Compose		
-![image](https://github.com/user-attachments/assets/b421e5e1-cd82-4c47-90d5-289fa26cd029)
-![image](https://github.com/user-attachments/assets/b182f680-d3c6-483d-9b15-9599754bbf12)
-![image](https://github.com/user-attachments/assets/be400355-54c2-4201-b7e0-a0e368501b90)
+![image](https://github.com/user-attachments/assets/75daf199-21e9-4252-a34a-8121d71fd0d3)
+![image](https://github.com/user-attachments/assets/5ed518a1-a2f2-4210-ba05-de3bff3492ab)
+![image](https://github.com/user-attachments/assets/f88b9c8e-0e45-4ee3-b462-1d8847c9c7e9)
+![image](https://github.com/user-attachments/assets/c2481684-a1bb-432d-845e-d20653c05c40)
+![image](https://github.com/user-attachments/assets/879874ef-3601-47bc-a285-ad524227100f)
+![image](https://github.com/user-attachments/assets/5fe0b1ed-41ac-4a73-ba8c-c0029e058fef)
+![image](https://github.com/user-attachments/assets/c8aee7e9-f308-46b7-af6c-0efb57c2f53a)
+# 
 
