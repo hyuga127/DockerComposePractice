@@ -21,5 +21,15 @@
 ![image](https://github.com/user-attachments/assets/879874ef-3601-47bc-a285-ad524227100f)
 ![image](https://github.com/user-attachments/assets/5fe0b1ed-41ac-4a73-ba8c-c0029e058fef)
 ![image](https://github.com/user-attachments/assets/c8aee7e9-f308-46b7-af6c-0efb57c2f53a)
-# 
+# Bài 5: Chạy Redis với Docker Compose		
+![image](https://github.com/user-attachments/assets/fb504942-d3c2-41be-af00-a173eba4ef8b)
+![image](https://github.com/user-attachments/assets/dd4baed9-481a-4bab-a8a5-9687c92d0ed3)
+![image](https://github.com/user-attachments/assets/eef8d3e8-67ce-4e4b-be78-393dd1ca4256)
+# Bài 6: Chạy WordPress với MySQL		
+![image](https://github.com/user-attachments/assets/76c451ad-0fed-4f7b-b1b9-24eaa0413a78)
+![image](https://github.com/user-attachments/assets/33f8bf8c-4bb2-48c7-bea0-9082e8faf432)
+# Bài 7: Chạy MongoDB với Docker Compose		
+![image](https://github.com/user-attachments/assets/ed8a859f-5d3f-4823-aae8-50789ce7f3c0)
+![image](https://github.com/user-attachments/assets/744f2869-4e74-45fb-a4ee-11a93f32a9ff)
+# 	Bài 8: Kết nối nhiều dịch vụ với Docker Compose		
 
